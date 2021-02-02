@@ -1,0 +1,7 @@
+POST http://192.168.200.25/api/course/info  
+User-Agent: rest-client
+Content-Type: application/json
+
+{
+  "query": {"a":1,"b":2}
+}
